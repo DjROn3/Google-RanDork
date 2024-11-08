@@ -2,7 +2,8 @@
 
 This program is designed to facilitate Google Dorking— a method of using specific search terms and operators to uncover sensitive information that may inadvertently be available on the web. This can include accessing files, admin panels, databases, and other assets that are not adequately secured and are accessible via Google’s search index. **Google Dorks** can reveal interesting insights, but they can also be risky to use if not handled responsibly.
 
-![image](https://github.com/user-attachments/assets/d3fb198b-be2d-4e90-818a-035a96d4d4e9)
+![image](https://github.com/user-attachments/assets/b805657c-3faa-4f42-8697-5759e9006385)
+
 
 
 ### How It Works
