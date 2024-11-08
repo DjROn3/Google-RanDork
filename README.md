@@ -2,6 +2,9 @@
 
 This program is designed to facilitate Google Dorking— a method of using specific search terms and operators to uncover sensitive information that may inadvertently be available on the web. This can include accessing files, admin panels, databases, and other assets that are not adequately secured and are accessible via Google’s search index. **Google Dorks** can reveal interesting insights, but they can also be risky to use if not handled responsibly.
 
+![image](https://github.com/user-attachments/assets/d3fb198b-be2d-4e90-818a-035a96d4d4e9)
+
+
 ### How It Works
 
 The program operates by randomly selecting from a list of predefined Google Dork queries and automatically executing a search in your default web browser. This functionality allows users to explore specific aspects of internet resources efficiently and can serve as a valuable tool for identifying vulnerabilities.
@@ -9,6 +12,11 @@ The program operates by randomly selecting from a list of predefined Google Dork
 1. **Predefined Dork Queries**: The program includes a list of Google Dork queries tailored to reveal specific types of information, such as admin panels, database configurations, login pages, and file directories. 
 2. **Random Selection**: Each time you run the program, it picks a random query from the list to initiate a Google search.
 3. **Automatic Search Execution**: The selected Dork query is automatically encoded and launched in your default browser, initiating a Google search with the chosen query.
+
+/!\ Windows Defender warns of a Trojan:Win32/Wacatac.B!ml alert.
+![image](https://github.com/user-attachments/assets/ade35fb2-6938-4d38-9e13-9444033d73b4)
+
+This is a false positive here, the script is considered malicious only because it uses your default browser to request Google services****
 
 ### Important Usage Guidelines
 
